@@ -26,7 +26,7 @@ You will find all these files and more in the appropriate folder:
 - batch files in bin folder are for this directory: /usr/local/bin/ 
 - lircd.conf file is for /etc/lirc/
 - files in www are for this directory: /var/www/
-don't forget you need to personalize them according to your own configuration.
+Don't forget you need to personalize them according to your own configuration.
 
 Enjoy!
 
