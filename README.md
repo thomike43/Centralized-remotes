@@ -13,7 +13,7 @@ https://www.raspberrypi.org/documentation/remote-access/ftp.md
 The Anavi Infrared pHAT must be installed exactly as explained here:
 http://anavi.technology/files/anavi-infrared-phat.pdf
 In this description, you will find out how to proceed with the next step, which is to read the useful infrared signals from each remote control, name them very carefully and without duplicates, and then save them in a single file called lircd.conf. The real example you will find here corresponds to my own hardware and must therefore be adapted according to each custom need.
-Don't forget that the configuration file lirc_options.conf has to be modified to switch from recording infrared signals to transmitting them. This is explained in Setting up LIRC and Using IR LED.
+Don't forget that the configuration file lirc_options.conf has to be modified to switch from recording infrared signals to transmitting them. This is explained in Setting up LIRC and Using IR LED chapters.
 
 You can then proceed with the installation of a web server as explained here for example:
 http://www.raspberryvi.org/stories/raspbian-lamp.html 
